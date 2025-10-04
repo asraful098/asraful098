@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @asraful098
-- 👀 I’m interested in General Ai
-- 🌱 I’m currently learning General AI, including libraries, data structures, algorithms, and math concepts
-- 💞️ I’m looking to collaborate on AI-related projects, machine learning models, and innovative tech solutions
-- 📫 How to reach me sheikhasraful.an@gmail.com
-- ⚡ Fun fact: AI fascinates me because it has the potential to reshape the future! 🚀
+Hello! I am Shekh Md Asraful Islam Robin, a passionate and dedicated student of Artificial Intelligence and Machine Learning. My journey in technology is driven by a profound curiosity to explore how intelligent systems can solve complex, real-world problems.
 
-
-<!---
-asraful098/asraful098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am currently focused on Deep Learning and Natural Language Processing (NLP), constantly seeking opportunities to apply my knowledge in practical projects. I believe in clean code, robust model design, and continuous learning. Let's connect and build something intelligent together!
