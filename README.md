@@ -1,4 +1,5 @@
-# 💫 About Me:<br><br>- 🤖 AI/ML Developer passionate about Machine Learning and AI.<br>- 💻 Building real-world projects and exploring new technologies.<br>- 🌱 Continuously learning and improving my skills.<br>- 🎯 Goal: Build impactful AI-powered solutions.
+# 💫 About Me
+<br><br>- 🤖 AI/ML Developer passionate about Machine Learning and AI.<br>- 💻 Building real-world projects and exploring new technologies.<br>- 🌱 Continuously learning and improving my skills.<br>- 🎯 Goal: Build impactful AI-powered solutions.
 
 
 ## 🌐 Socials:
